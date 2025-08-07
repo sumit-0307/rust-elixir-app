@@ -7,7 +7,7 @@ export default function ShaderTab() {
 
   const handleSubmit = async () => {
     try {
-      const response = await fetch('http://localhost:4000/api/shader', {
+      const response = await fetch('https://elixir-backend-hs9d.onrender.com/api/shader', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ prompt: description }),
