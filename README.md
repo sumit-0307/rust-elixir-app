@@ -14,4 +14,4 @@ Deployed the Backend on render: https://elixir-backend-hs9d.onrender.com
 
 And Frontend on Vercel: https://rust-elixir-app.vercel.app
 
-
+If by any chance the shader isn't loading or giving any errors that prolly you need to give a detailed prompt of the glsl shader that you want because Gemini isn't trained or anything and works solely through the prompt given in the backend which can be misleading in some cases
