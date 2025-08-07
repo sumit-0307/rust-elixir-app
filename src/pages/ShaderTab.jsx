@@ -1,4 +1,5 @@
 import { useState, useRef } from 'react';
+import init, { your_exported_fn } from '../../rust-calc/pkg/rust_calc.js';
 
 export default function ShaderTab() {
   const [description, setDescription] = useState('');
