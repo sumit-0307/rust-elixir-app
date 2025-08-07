@@ -22,7 +22,6 @@ defmodule ElixirBackendWeb.ElixirController do
   |> String.trim()
 end
 
-
   defp call_gemini(prompt) do
     body =
       Jason.encode!(%{
