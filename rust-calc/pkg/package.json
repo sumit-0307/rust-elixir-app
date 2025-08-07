@@ -1,0 +1,15 @@
+{
+  "name": "rust-calc",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "rust_calc_bg.wasm",
+    "rust_calc.js",
+    "rust_calc.d.ts"
+  ],
+  "main": "rust_calc.js",
+  "types": "rust_calc.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
