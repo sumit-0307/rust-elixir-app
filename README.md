@@ -1,5 +1,6 @@
 # Rust-Elixir App
 
+Tech Stack that I used
 ### React Frontend 
 ### Backend using Phoenix Framework of Elixir 
 ### Calculator using Rust and WASM
