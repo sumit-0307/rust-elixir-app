@@ -15,7 +15,7 @@
 
 Made all these stuffs in a hurry, with a lot of documentation, youtube tutorials, help from Chatgpt for Debugging and Gemini integration in elixir 
 
-Deployed the Backend on render: https://elixir-backend-hs9d.onrender.com
+Deployed the Backend on render: https://rust-elixir-app.onrender.com
 
 And Frontend on Vercel: https://rust-elixir-app.vercel.app
 
